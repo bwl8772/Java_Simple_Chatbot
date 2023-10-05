@@ -1,0 +1,41 @@
+[1;31m
+Start test 1[0m
+Hello! My name is Aid.
+I was created in 2023.
+Please, remind me your name.
+> Marry
+$What a great name you have, Marry!
+Let me guess your age.
+6Enter remainders of dividing your age by 3, 5 and 7.
+> 1
+> 0
+> 5
+:Your age is 40; that's a good time to start programming!
+BNow I will prove to you that I can count to any number you want.
+> 10
+0!
+1!
+2!
+3!
+4!
+5!
+6!
+7!
+8!
+9!
+10!
+*Let's test your life programming skills.
+What is the meaning of life?
+	1. to be happy
+	2. To learn and grow
+	3. To eat cake
+	4. To love and be loved
+> 1
+Please, try again
+> 2
+Please, try again
+> 3
+Please, try again
+> 4
+you got it!
+#Congratulations, have a nice day!
